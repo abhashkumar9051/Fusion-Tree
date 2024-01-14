@@ -1,8 +1,8 @@
 // created by 
 
-// Prashant     2022csb1202
-// Kartikey     2022csb1087
-// pranav       2022csb1103
+// Abhash     21CS40
+// Nitish     21CS42
+// Utkarsh    21CS33
 
 #include <iostream>
 #include <vector>

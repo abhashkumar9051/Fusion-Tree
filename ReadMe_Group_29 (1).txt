@@ -1,10 +1,9 @@
 Team Members Name:
 
-Prashant Kumar      2022csb1202
-Pranav Bhole            2022csb1103
-Kartikey Sahu          2022csb1087
-
-Mentor Name: - Soumya Sarkar 
+ Abhash     21CS40
+ Nitish     21CS42
+ Utkarsh    21CS33
+Mentor Name: - Kumari Priyanka Sinha
 Project Name:- Implementation of Fusion Tree in C++
 
 ## Summary ##

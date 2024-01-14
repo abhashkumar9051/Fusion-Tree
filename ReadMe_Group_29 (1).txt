@@ -3,7 +3,7 @@ Team Members Name:
  Abhash     21CS40
  Nitish     21CS42
  Utkarsh    21CS33
-Mentor Name: - Kumari Priyanka Sinha
+Mentor Name: - Kumari Priyanka Sinha 
 Project Name:- Implementation of Fusion Tree in C++
 
 ## Summary ##

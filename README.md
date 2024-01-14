@@ -1,10 +1,10 @@
 Team Members Name:
 
-Prashant Kumar      2022csb1202<br>
-Pranav Bhole        2022csb1103<br>
-Kartikey Sahu       2022csb1087<br>
+ Abhash     21CS40
+ Nitish     21CS42
+ Utkarsh    21CS33
 
-Instructor : Dr. Anil Shukla || Mentor : Soumya Sarkar  <br>
+Instructor : Kumari Priyanka Sinha || Mentor : Rajeev Kumar  <br>
 
 Project Name:- Implementation of Fusion Tree in C++ <br>
 
